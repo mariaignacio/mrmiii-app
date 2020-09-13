@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mrmii-blog"
+    }
+  },
+  "defaultProject": "mrmii-blog",
+  "cli": {
+    "analytics": "f111a9da-cd08-4289-aa54-fff79867f7ce"
+  }
 }
